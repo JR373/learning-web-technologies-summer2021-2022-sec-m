@@ -1,1 +1,1 @@
-# lerning-web-technologies-summer2021-2022-sec-m
+# learning-web-technologies-summer2021-2022-sec-m
